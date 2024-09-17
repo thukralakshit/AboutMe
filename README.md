@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Rahul Chowdhary<br>
+👋 Hi, I'm Akshit AKhsit<br>
 👨‍💻 I am interested in Software Development and Cloud Computing<br>
 📄 Microsoft Certified : Azure Fundamentals<br>
 🌱 I’m currently learning Software Development and Network Engineering at Sheridan College<br>
